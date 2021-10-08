@@ -1,0 +1,10 @@
+D:\hritwik\Hospital\Hospital\Hospital.DataAccessLayer\bin\Debug\Hospital.DataAccessLayer.dll
+D:\hritwik\Hospital\Hospital\Hospital.DataAccessLayer\bin\Debug\Hospital.DataAccessLayer.pdb
+D:\hritwik\Hospital\Hospital\Hospital.DataAccessLayer\bin\Debug\Hospital.Entities.dll
+D:\hritwik\Hospital\Hospital\Hospital.DataAccessLayer\bin\Debug\Hospital.Entities.pdb
+D:\hritwik\Hospital\Hospital\Hospital.DataAccessLayer\obj\Debug\Hospital.DataAccessLayer.csprojAssemblyReference.cache
+D:\hritwik\Hospital\Hospital\Hospital.DataAccessLayer\obj\Debug\Hospital.DataAccessLayer.csproj.CopyComplete
+D:\hritwik\Hospital\Hospital\Hospital.DataAccessLayer\obj\Debug\Hospital.DataAccessLayer.dll
+D:\hritwik\Hospital\Hospital\Hospital.DataAccessLayer\obj\Debug\Hospital.DataAccessLayer.pdb
+D:\hritwik\Hospital\Hospital\Hospital.DataAccessLayer\bin\Debug\Hospital.Exeptions.dll
+D:\hritwik\Hospital\Hospital\Hospital.DataAccessLayer\bin\Debug\Hospital.Exeptions.pdb

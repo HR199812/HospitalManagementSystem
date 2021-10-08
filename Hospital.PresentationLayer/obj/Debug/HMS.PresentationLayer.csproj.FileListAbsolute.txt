@@ -1,0 +1,30 @@
+D:\hritwik\Hospital\Hospital\Hospital.PresentationLayer\bin\Debug\Hospital.PresentationLayer.exe.config
+D:\hritwik\Hospital\Hospital\Hospital.PresentationLayer\bin\Debug\Hospital.PresentationLayer.exe
+D:\hritwik\Hospital\Hospital\Hospital.PresentationLayer\bin\Debug\Hospital.PresentationLayer.pdb
+D:\hritwik\Hospital\Hospital\Hospital.PresentationLayer\bin\Debug\Hospital.BusinessLogicLayer.dll
+D:\hritwik\Hospital\Hospital\Hospital.PresentationLayer\bin\Debug\Hospital.Entities.dll
+D:\hritwik\Hospital\Hospital\Hospital.PresentationLayer\bin\Debug\Hospital.Exeptions.dll
+D:\hritwik\Hospital\Hospital\Hospital.PresentationLayer\bin\Debug\Hospital.DataAccessLayer.dll
+D:\hritwik\Hospital\Hospital\Hospital.PresentationLayer\bin\Debug\Hospital.BusinessLogicLayer.pdb
+D:\hritwik\Hospital\Hospital\Hospital.PresentationLayer\bin\Debug\Hospital.Entities.pdb
+D:\hritwik\Hospital\Hospital\Hospital.PresentationLayer\bin\Debug\Hospital.Exeptions.pdb
+D:\hritwik\Hospital\Hospital\Hospital.PresentationLayer\bin\Debug\Hospital.DataAccessLayer.pdb
+D:\hritwik\Hospital\Hospital\Hospital.PresentationLayer\obj\Debug\HMS.PresentationLayer.csprojAssemblyReference.cache
+D:\hritwik\Hospital\Hospital\Hospital.PresentationLayer\obj\Debug\HMS.PresentationLayer.csproj.CopyComplete
+D:\hritwik\Hospital\Hospital\Hospital.PresentationLayer\obj\Debug\Hospital.PresentationLayer.exe
+D:\hritwik\Hospital\Hospital\Hospital.PresentationLayer\obj\Debug\Hospital.PresentationLayer.pdb
+C:\Hritwik Sprint 1\Sprint 1\HospitalManagementSystem\Hospital\Hospital.PresentationLayer\bin\Debug\Hospital.PresentationLayer.exe.config
+C:\Hritwik Sprint 1\Sprint 1\HospitalManagementSystem\Hospital\Hospital.PresentationLayer\bin\Debug\Hospital.PresentationLayer.exe
+C:\Hritwik Sprint 1\Sprint 1\HospitalManagementSystem\Hospital\Hospital.PresentationLayer\bin\Debug\Hospital.PresentationLayer.pdb
+C:\Hritwik Sprint 1\Sprint 1\HospitalManagementSystem\Hospital\Hospital.PresentationLayer\bin\Debug\Hospital.BusinessLogicLayer.dll
+C:\Hritwik Sprint 1\Sprint 1\HospitalManagementSystem\Hospital\Hospital.PresentationLayer\bin\Debug\Hospital.Entities.dll
+C:\Hritwik Sprint 1\Sprint 1\HospitalManagementSystem\Hospital\Hospital.PresentationLayer\bin\Debug\Hospital.Exeptions.dll
+C:\Hritwik Sprint 1\Sprint 1\HospitalManagementSystem\Hospital\Hospital.PresentationLayer\bin\Debug\Hospital.DataAccessLayer.dll
+C:\Hritwik Sprint 1\Sprint 1\HospitalManagementSystem\Hospital\Hospital.PresentationLayer\bin\Debug\Hospital.BusinessLogicLayer.pdb
+C:\Hritwik Sprint 1\Sprint 1\HospitalManagementSystem\Hospital\Hospital.PresentationLayer\bin\Debug\Hospital.Entities.pdb
+C:\Hritwik Sprint 1\Sprint 1\HospitalManagementSystem\Hospital\Hospital.PresentationLayer\bin\Debug\Hospital.Exeptions.pdb
+C:\Hritwik Sprint 1\Sprint 1\HospitalManagementSystem\Hospital\Hospital.PresentationLayer\bin\Debug\Hospital.DataAccessLayer.pdb
+C:\Hritwik Sprint 1\Sprint 1\HospitalManagementSystem\Hospital\Hospital.PresentationLayer\obj\Debug\HMS.PresentationLayer.csprojAssemblyReference.cache
+C:\Hritwik Sprint 1\Sprint 1\HospitalManagementSystem\Hospital\Hospital.PresentationLayer\obj\Debug\HMS.PresentationLayer.csproj.CopyComplete
+C:\Hritwik Sprint 1\Sprint 1\HospitalManagementSystem\Hospital\Hospital.PresentationLayer\obj\Debug\Hospital.PresentationLayer.exe
+C:\Hritwik Sprint 1\Sprint 1\HospitalManagementSystem\Hospital\Hospital.PresentationLayer\obj\Debug\Hospital.PresentationLayer.pdb

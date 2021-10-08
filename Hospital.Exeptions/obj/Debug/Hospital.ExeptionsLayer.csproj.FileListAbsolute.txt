@@ -1,0 +1,5 @@
+D:\hritwik\Hospital\Hospital\Hospital.Exeptions\bin\Debug\Hospital.Exeptions.dll
+D:\hritwik\Hospital\Hospital\Hospital.Exeptions\bin\Debug\Hospital.Exeptions.pdb
+D:\hritwik\Hospital\Hospital\Hospital.Exeptions\obj\Debug\Hospital.ExeptionsLayer.csprojAssemblyReference.cache
+D:\hritwik\Hospital\Hospital\Hospital.Exeptions\obj\Debug\Hospital.Exeptions.dll
+D:\hritwik\Hospital\Hospital\Hospital.Exeptions\obj\Debug\Hospital.Exeptions.pdb

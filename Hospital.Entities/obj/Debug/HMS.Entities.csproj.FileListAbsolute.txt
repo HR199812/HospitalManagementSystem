@@ -1,0 +1,5 @@
+D:\hritwik\Hospital\Hospital\Hospital.Entities\bin\Debug\Hospital.Entities.dll
+D:\hritwik\Hospital\Hospital\Hospital.Entities\bin\Debug\Hospital.Entities.pdb
+D:\hritwik\Hospital\Hospital\Hospital.Entities\obj\Debug\HMS.Entities.csprojAssemblyReference.cache
+D:\hritwik\Hospital\Hospital\Hospital.Entities\obj\Debug\Hospital.Entities.dll
+D:\hritwik\Hospital\Hospital\Hospital.Entities\obj\Debug\Hospital.Entities.pdb

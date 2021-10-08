@@ -1,0 +1,15 @@
+D:\hritwik\Hospital\Hospital\Hospital.PresentationLayer\bin\Debug\Hospital.PresentationLayer.exe.config
+D:\hritwik\Hospital\Hospital\Hospital.PresentationLayer\bin\Debug\Hospital.PresentationLayer.exe
+D:\hritwik\Hospital\Hospital\Hospital.PresentationLayer\bin\Debug\Hospital.PresentationLayer.pdb
+D:\hritwik\Hospital\Hospital\Hospital.PresentationLayer\bin\Debug\Hospital.BusinessLogicLayer.dll
+D:\hritwik\Hospital\Hospital\Hospital.PresentationLayer\bin\Debug\Hospital.Entities.dll
+D:\hritwik\Hospital\Hospital\Hospital.PresentationLayer\bin\Debug\Hospital.Exeptions.dll
+D:\hritwik\Hospital\Hospital\Hospital.PresentationLayer\bin\Debug\Hospital.BusinessLogicLayer.pdb
+D:\hritwik\Hospital\Hospital\Hospital.PresentationLayer\bin\Debug\Hospital.Entities.pdb
+D:\hritwik\Hospital\Hospital\Hospital.PresentationLayer\bin\Debug\Hospital.Exeptions.pdb
+D:\hritwik\Hospital\Hospital\Hospital.PresentationLayer\obj\Debug\Hospital.PresentationLayer.csprojAssemblyReference.cache
+D:\hritwik\Hospital\Hospital\Hospital.PresentationLayer\obj\Debug\Hospital.PresentationLayer.csproj.CopyComplete
+D:\hritwik\Hospital\Hospital\Hospital.PresentationLayer\obj\Debug\Hospital.PresentationLayer.exe
+D:\hritwik\Hospital\Hospital\Hospital.PresentationLayer\obj\Debug\Hospital.PresentationLayer.pdb
+D:\hritwik\Hospital\Hospital\Hospital.PresentationLayer\bin\Debug\Hospital.DataAccessLayer.dll
+D:\hritwik\Hospital\Hospital\Hospital.PresentationLayer\bin\Debug\Hospital.DataAccessLayer.pdb

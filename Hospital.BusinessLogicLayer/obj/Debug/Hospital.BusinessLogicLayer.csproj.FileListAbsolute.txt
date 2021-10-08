@@ -1,0 +1,12 @@
+D:\hritwik\Hospital\Hospital\Hospital.BusinessLogicLayer\bin\Debug\Hospital.BusinessLogicLayer.dll
+D:\hritwik\Hospital\Hospital\Hospital.BusinessLogicLayer\bin\Debug\Hospital.BusinessLogicLayer.pdb
+D:\hritwik\Hospital\Hospital\Hospital.BusinessLogicLayer\bin\Debug\Hospital.DataAccessLayer.dll
+D:\hritwik\Hospital\Hospital\Hospital.BusinessLogicLayer\bin\Debug\Hospital.Entities.dll
+D:\hritwik\Hospital\Hospital\Hospital.BusinessLogicLayer\bin\Debug\Hospital.Exeptions.dll
+D:\hritwik\Hospital\Hospital\Hospital.BusinessLogicLayer\bin\Debug\Hospital.DataAccessLayer.pdb
+D:\hritwik\Hospital\Hospital\Hospital.BusinessLogicLayer\bin\Debug\Hospital.Entities.pdb
+D:\hritwik\Hospital\Hospital\Hospital.BusinessLogicLayer\bin\Debug\Hospital.Exeptions.pdb
+D:\hritwik\Hospital\Hospital\Hospital.BusinessLogicLayer\obj\Debug\Hospital.BusinessLogicLayer.csprojAssemblyReference.cache
+D:\hritwik\Hospital\Hospital\Hospital.BusinessLogicLayer\obj\Debug\Hospital.BusinessLogicLayer.csproj.CopyComplete
+D:\hritwik\Hospital\Hospital\Hospital.BusinessLogicLayer\obj\Debug\Hospital.BusinessLogicLayer.dll
+D:\hritwik\Hospital\Hospital\Hospital.BusinessLogicLayer\obj\Debug\Hospital.BusinessLogicLayer.pdb

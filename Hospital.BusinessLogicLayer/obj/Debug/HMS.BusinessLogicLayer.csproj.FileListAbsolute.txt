@@ -1,0 +1,24 @@
+D:\hritwik\Hospital\Hospital\Hospital.BusinessLogicLayer\bin\Debug\Hospital.BusinessLogicLayer.dll
+D:\hritwik\Hospital\Hospital\Hospital.BusinessLogicLayer\bin\Debug\Hospital.BusinessLogicLayer.pdb
+D:\hritwik\Hospital\Hospital\Hospital.BusinessLogicLayer\bin\Debug\Hospital.DataAccessLayer.dll
+D:\hritwik\Hospital\Hospital\Hospital.BusinessLogicLayer\bin\Debug\Hospital.Entities.dll
+D:\hritwik\Hospital\Hospital\Hospital.BusinessLogicLayer\bin\Debug\Hospital.Exeptions.dll
+D:\hritwik\Hospital\Hospital\Hospital.BusinessLogicLayer\bin\Debug\Hospital.DataAccessLayer.pdb
+D:\hritwik\Hospital\Hospital\Hospital.BusinessLogicLayer\bin\Debug\Hospital.Entities.pdb
+D:\hritwik\Hospital\Hospital\Hospital.BusinessLogicLayer\bin\Debug\Hospital.Exeptions.pdb
+D:\hritwik\Hospital\Hospital\Hospital.BusinessLogicLayer\obj\Debug\HMS.BusinessLogicLayer.csprojAssemblyReference.cache
+D:\hritwik\Hospital\Hospital\Hospital.BusinessLogicLayer\obj\Debug\HMS.BusinessLogicLayer.csproj.CopyComplete
+D:\hritwik\Hospital\Hospital\Hospital.BusinessLogicLayer\obj\Debug\Hospital.BusinessLogicLayer.dll
+D:\hritwik\Hospital\Hospital\Hospital.BusinessLogicLayer\obj\Debug\Hospital.BusinessLogicLayer.pdb
+C:\Hritwik Sprint 1\Sprint 1\HospitalManagementSystem\Hospital\Hospital.BusinessLogicLayer\bin\Debug\Hospital.BusinessLogicLayer.dll
+C:\Hritwik Sprint 1\Sprint 1\HospitalManagementSystem\Hospital\Hospital.BusinessLogicLayer\bin\Debug\Hospital.BusinessLogicLayer.pdb
+C:\Hritwik Sprint 1\Sprint 1\HospitalManagementSystem\Hospital\Hospital.BusinessLogicLayer\bin\Debug\Hospital.DataAccessLayer.dll
+C:\Hritwik Sprint 1\Sprint 1\HospitalManagementSystem\Hospital\Hospital.BusinessLogicLayer\bin\Debug\Hospital.Entities.dll
+C:\Hritwik Sprint 1\Sprint 1\HospitalManagementSystem\Hospital\Hospital.BusinessLogicLayer\bin\Debug\Hospital.Exeptions.dll
+C:\Hritwik Sprint 1\Sprint 1\HospitalManagementSystem\Hospital\Hospital.BusinessLogicLayer\bin\Debug\Hospital.DataAccessLayer.pdb
+C:\Hritwik Sprint 1\Sprint 1\HospitalManagementSystem\Hospital\Hospital.BusinessLogicLayer\bin\Debug\Hospital.Entities.pdb
+C:\Hritwik Sprint 1\Sprint 1\HospitalManagementSystem\Hospital\Hospital.BusinessLogicLayer\bin\Debug\Hospital.Exeptions.pdb
+C:\Hritwik Sprint 1\Sprint 1\HospitalManagementSystem\Hospital\Hospital.BusinessLogicLayer\obj\Debug\HMS.BusinessLogicLayer.csprojAssemblyReference.cache
+C:\Hritwik Sprint 1\Sprint 1\HospitalManagementSystem\Hospital\Hospital.BusinessLogicLayer\obj\Debug\HMS.BusinessLogicLayer.csproj.CopyComplete
+C:\Hritwik Sprint 1\Sprint 1\HospitalManagementSystem\Hospital\Hospital.BusinessLogicLayer\obj\Debug\Hospital.BusinessLogicLayer.dll
+C:\Hritwik Sprint 1\Sprint 1\HospitalManagementSystem\Hospital\Hospital.BusinessLogicLayer\obj\Debug\Hospital.BusinessLogicLayer.pdb
